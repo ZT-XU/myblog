@@ -12,7 +12,7 @@
 [zyglq]:https://github.com/ZT-XU/myblog/raw/master/win10yh/zyglq.png
 [wddn]:https://github.com/ZT-XU/myblog/raw/master/win10yh/wddn.png
 
-# Winodws10 美化与调优
+# Winodws 10 美化与调优
 
 ## 写在文前
 
@@ -22,7 +22,7 @@
 
 ## 美化
 
-重装好Windows10后，系统的默认界面是这样的：  
+重装好Windows 10后，系统的默认界面是这样的：  
 ![win10before][win10before]  
 美化之后：  
 ![win10meihua][win10meihua]  
