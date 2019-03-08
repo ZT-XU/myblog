@@ -1,7 +1,7 @@
 <!-- 链接 -->
-[m_meihua_tou]:.
-[peizi]:.
-[kjj]:.
+[m_meihua_tou]:https://github.com/ZT-XU/myblog/raw/master/Manjaro_yh/meihua.png
+[peizi]:https://github.com/ZT-XU/myblog/raw/master/Manjaro_yh/peizi.png
+[kjj]:https://github.com/ZT-XU/myblog/raw/master/Manjaro_yh/kjj.png
 
 # Manjaro 美化与调优
 
