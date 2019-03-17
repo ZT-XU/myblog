@@ -34,7 +34,7 @@ int main(){
 
 ```
 
-![](.)
+![](https://github.com/ZT-XU/myblog/raw/master/C%2B%2B_heap/c%2B%2B1-1.png)
 
 这种方法创建时，会在栈区开辟内存空间，这时内存管理由C++自己处理。但是，我们的栈区是有限的，而且一般空间不大，所以**new**就派上用场了！  
 一般来说，堆区的空间是足够大的，而在其中申请的内存空间，要由程序员自己管理。也就是说，当我们new一个变量之后，如果之后不用了，就必须手动delete，否则，就会造成内存泄漏。
@@ -43,14 +43,14 @@ int main(){
 
 ```c++
 int main(){
-    //Demo object1("object1"); 
+    //Demo object1("object1");
     Demo *object2 = new Demo("object2");
     delete object2;
 }
 
 ```
 
-![](.)
+![](https://github.com/ZT-XU/myblog/raw/master/C%2B%2B_heap/c%2B%2B1-2.png)
 
 ## 创建动态对象数组
 
